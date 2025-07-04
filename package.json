@@ -1,6 +1,6 @@
 {
   "name": "@luluf/mcp-server",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Run your Go MCP server with a single npx command",
   "bin": {
     "mcpserver": "index.js"
