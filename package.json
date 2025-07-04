@@ -1,6 +1,6 @@
 {
   "name": "@luluff/mcp-server",
-  "version": "1.0.0",
+  "version": "1.0.8",
   "description": "Run your Go MCP server with a single npx command",
   "bin": {
     "mcpserver": "index.js"
@@ -11,5 +11,8 @@
   "engines": {
     "node": ">=18"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "tar": "^7.4.3"
+  }
 }
